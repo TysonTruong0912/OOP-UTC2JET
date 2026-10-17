@@ -1,18 +1,12 @@
 ================================================================================
-  DANH MUC SAN BAY NOI DIA VIET NAM (DT04) — nap tu sanbay.csv
+DANH MUC SAN BAY NOI DIA VIET NAM (DT04) — nguon sanbay.csv
 ================================================================================
-SGN Tan Son Nhat (TP HCM)     HAN Noi Bai (Ha Noi)
-DAD Da Nang                   PQC Phu Quoc
-CXR Cam Ranh (Nha Trang)      HPH Cat Bi (Hai Phong)
-VCA Can Tho                   VII Vinh
-HUI Phu Bai (Hue)             DLI Lien Khuong (Da Lat)
-UIH Phu Cat (Quy Nhon)        VDO Van Don (Quang Ninh)
-BMV Buon Ma Thuot             PXU Pleiku
-VCL Chu Lai                   TBB Tuy Hoa
-VDH Dong Hoi                  THD Tho Xuan (Thanh Hoa)
-DIN Dien Bien                 VKG Rach Gia
-CAH Ca Mau                    VCS Con Dao
-Hang: VNA / VJ / QH / VU — may bay trong maybay.csv
-Chuyen bay: chuyenbay.csv (nhieu tuyen truc + dia phuong)
-Gio bay: gan theo ngay/gio may khi chay app
+SGN Tan Son Nhat (TP HCM)   HAN Noi Bai (Ha Noi)      DAD Da Nang
+PQC Phu Quoc                CXR Cam Ranh (Nha Trang)  HPH Cat Bi (Hai Phong)
+VCA Can Tho                 VII Vinh                  HUI Phu Bai (Hue)
+DLI Lien Khuong (Da Lat)    UIH Phu Cat (Quy Nhon)    VDO Van Don (Quang Ninh)
+BMV Buon Ma Thuot           PXU Pleiku                VCL Chu Lai
+TBB Tuy Hoa                 VDH Dong Hoi              THD Tho Xuan (Thanh Hoa)
+DIN Dien Bien Phu           VKG Rach Gia              CAH Ca Mau
+VCS Con Dao                 SQH Na San (Son La)       PHA Thanh Son (Ninh Thuan)
 ================================================================================
