@@ -1,0 +1,180 @@
+================================================================================
+  TINH TRANG GHE / VE THEO CHUYEN BAY (cap nhat luc chay chuong trinh)
+================================================================================
+--------------------------------------------------------------------------------
+ Chuyen VN101 | SGN->HAN | may bay VN-A001
+ Gio di 05/10 17:29 | Gio den 05/10 19:39 | Gia co ban 1.500.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ101 | SGN->HAN | may bay VJ-B001
+ Gio di 05/10 18:29 | Gio den 05/10 20:39 | Gia co ban 990.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN501 | HAN->HPH | may bay VN-A003
+ Gio di 05/10 18:29 | Gio den 05/10 19:14 | Gia co ban 500.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 40/40 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 20/20 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen QH301 | HAN->VDO | may bay QH-C002
+ Gio di 05/10 19:29 | Gio den 05/10 20:19 | Gia co ban 450.000 VND
+  Khoang THUONG GIA : con 4/4 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 20/20 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 10/10 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN201 | SGN->DAD | may bay VN-A001
+ Gio di 05/10 19:29 | Gio den 05/10 20:49 | Gia co ban 900.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ201 | SGN->DAD | may bay VJ-B001
+ Gio di 05/10 20:29 | Gio den 05/10 21:49 | Gia co ban 690.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN502 | SGN->VCA | may bay VN-A001
+ Gio di 05/10 20:29 | Gio den 05/10 21:24 | Gia co ban 650.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen QH101 | SGN->HAN | may bay QH-C001
+ Gio di 05/10 21:29 | Gio den 05/10 23:39 | Gia co ban 1.200.000 VND
+  Khoang THUONG GIA : con 4/4 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 28/28 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 14/14 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN301 | SGN->PQC | may bay VN-A002
+ Gio di 05/10 21:29 | Gio den 05/10 22:29 | Gia co ban 700.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ202 | SGN->PQC | may bay VJ-B002
+ Gio di 05/10 22:29 | Gio den 05/10 23:29 | Gia co ban 550.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 24/24 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN504 | HAN->HUI | may bay VN-A003
+ Gio di 05/10 22:29 | Gio den 05/10 23:39 | Gia co ban 780.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 40/40 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 20/20 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN102 | SGN->HAN | may bay VN-A002
+ Gio di 05/10 23:29 | Gio den 06/10 01:39 | Gia co ban 1.350.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN202 | DAD->HAN | may bay VN-A002
+ Gio di 05/10 23:29 | Gio den 06/10 00:49 | Gia co ban 800.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN503 | SGN->DLI | may bay VN-A002
+ Gio di 06/10 00:29 | Gio den 06/10 01:24 | Gia co ban 750.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen QH201 | SGN->HUI | may bay QH-C001
+ Gio di 06/10 00:29 | Gio den 06/10 01:44 | Gia co ban 880.000 VND
+  Khoang THUONG GIA : con 4/4 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 28/28 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 14/14 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN401 | SGN->CXR | may bay VN-A001
+ Gio di 06/10 01:29 | Gio den 06/10 02:39 | Gia co ban 850.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VU101 | SGN->HAN | may bay VU-D001
+ Gio di 06/10 01:29 | Gio den 06/10 03:39 | Gia co ban 1.100.000 VND
+  Khoang THUONG GIA : con 6/6 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 16/16 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ102 | HAN->SGN | may bay VJ-B002
+ Gio di 06/10 02:29 | Gio den 06/10 04:39 | Gia co ban 980.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 24/24 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN103 | HAN->SGN | may bay VN-A001
+ Gio di 06/10 03:29 | Gio den 06/10 05:39 | Gia co ban 1.480.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ301 | SGN->CXR | may bay VJ-B001
+ Gio di 06/10 04:29 | Gio den 06/10 05:39 | Gia co ban 620.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN203 | HAN->DAD | may bay VN-A002
+ Gio di 06/10 05:29 | Gio den 06/10 06:49 | Gia co ban 820.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen QH102 | HAN->SGN | may bay QH-C002
+ Gio di 06/10 05:29 | Gio den 06/10 07:39 | Gia co ban 1.180.000 VND
+  Khoang THUONG GIA : con 4/4 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 20/20 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 10/10 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ401 | HAN->DAD | may bay VJ-B002
+ Gio di 06/10 06:29 | Gio den 06/10 07:49 | Gia co ban 710.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 24/24 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN104 | HAN->SGN | may bay VN-A003
+ Gio di 06/10 07:29 | Gio den 06/10 09:39 | Gia co ban 1.600.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 40/40 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 20/20 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VU201 | SGN->DAD | may bay VU-D001
+ Gio di 06/10 07:29 | Gio den 06/10 08:49 | Gia co ban 750.000 VND
+  Khoang THUONG GIA : con 6/6 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 16/16 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VJ501 | SGN->VII | may bay VJ-B001
+ Gio di 06/10 09:29 | Gio den 06/10 11:09 | Gia co ban 800.000 VND
+  Khoang THUONG GIA : con 0/0 ghe  -> HET VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VU301 | SGN->UIH | may bay VU-D001
+ Gio di 06/10 10:29 | Gio den 06/10 11:44 | Gia co ban 720.000 VND
+  Khoang THUONG GIA : con 6/6 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 30/30 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 16/16 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN402 | CXR->SGN | may bay VN-A002
+ Gio di 06/10 11:29 | Gio den 06/10 12:39 | Gia co ban 860.000 VND
+  Khoang THUONG GIA : con 12/12 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 36/36 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 18/18 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+--------------------------------------------------------------------------------
+ Chuyen VN302 | PQC->SGN | may bay VN-A001
+ Gio di 06/10 13:29 | Gio den 06/10 14:29 | Gia co ban 720.000 VND
+  Khoang THUONG GIA : con 8/8 ghe  -> CON VE hang nay | x2.5 | HL mien phi 40kg+10kg xach tay | suat an kem | doi cho OK | phong cho TG
+  Khoang PHO THONG  : con 24/24 ghe  -> CON VE hang nay | x1.0 | HL mien phi 20kg+7kg xach tay | suat an them phi | doi cho cung hang OK
+  Khoang TIET KIEM  : con 12/12 ghe  -> CON VE hang nay | x0.8 | HL mien phi 15kg+7kg xach tay | suat an them phi | KHONG doi ve/cho
+================================================================================
+ Quy dinh hanh ly: TG 40kg | PT 20kg | TK 15kg mien phi; vuot muc 50.000 VND/kg
+ Chi tiet: data/UU_DAI_HANG_VE.txt , data/QUY_DINH_HANH_LY.txt

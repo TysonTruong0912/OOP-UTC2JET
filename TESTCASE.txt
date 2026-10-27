@@ -1,1 +1,1 @@
-Test KAN-13_SanBay_MayBay_Hang
+Test KAN-15_Enums_DuLieu_BaoCao
