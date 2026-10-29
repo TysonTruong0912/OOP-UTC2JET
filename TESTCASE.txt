@@ -1,1 +1,1 @@
-Test KAN-21_Builder_NoiChuyen
+Test KAN-17_FactoryVe_ThanhToan

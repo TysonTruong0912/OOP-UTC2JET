@@ -1,0 +1,18 @@
+================================================================================
+  QUY DINH HANH LY (DT04)
+================================================================================
+
+Hang ve          Ky gui mien phi     Xach tay     Phi vuot muc
+---------------  ------------------  -----------  -----------------
+Thuong gia       40 kg               10 kg        50.000 VND/kg
+Pho thong        20 kg               7 kg         50.000 VND/kg
+Tiet kiem        15 kg               7 kg         50.000 VND/kg
+
+Khi dat ve theo hanh trinh (Builder):
+  - Nhap so kg hanh ly THEM (vuot muc mien phi)
+  - He thong tinh phi = kg * 50.000 va boc Decorator VeCoHanhLy
+
+Admin / Dai ly co the:
+  - Xem tinh trang ghe tung khoang (TG/PT/TK) cua moi chuyen
+  - Xuat file data/TINH_TRANG_CHUYEN_BAY.txt (cap nhat theo du lieu that)
+================================================================================
