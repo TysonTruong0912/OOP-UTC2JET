@@ -1,0 +1,65 @@
+[
+  {
+    "ma": "AD01",
+    "ten": "Quản trị viên",
+    "vai": "Admin",
+    "mkHash": "d3fc50c8f714cebd16d6c827826df01205bf519529f9d34775293cf9b70a420e",
+    "mkHint": true,
+    "mkMau": "Admin@2024"
+  },
+  {
+    "ma": "DL01",
+    "ten": "Đại lý Sao Việt",
+    "vai": "Dai ly",
+    "hh": 4289560,
+    "hhHomQua": 4100000,
+    "tyle": 0.05,
+    "mkHash": "7a4ee1721be79ea04349f4aa910947bc4421454dccfa3e4bc366d65a0649e00e",
+    "mkHint": true,
+    "mkMau": "SaoViet@1"
+  },
+  {
+    "ma": "DL02",
+    "ten": "Vietnam Booking",
+    "vai": "Dai ly",
+    "hh": 2971740,
+    "hhHomQua": 3100000,
+    "tyle": 0.04,
+    "mkHash": "02f5f1f71f7d24a59d4b13b11f34b50ecc2e992aaa045097f29c303110a01009",
+    "mkHint": true,
+    "mkMau": "Booking@2"
+  },
+  {
+    "ma": "DL03",
+    "ten": "BestPrice Travel",
+    "vai": "Dai ly",
+    "hh": 2442780,
+    "hhHomQua": 2300000,
+    "tyle": 0.035,
+    "mkHash": "7a8c609a3f9475e5449f7ed2a4870028126aaac8e93b0632ea562d74eae727b1",
+    "mkHint": true,
+    "mkMau": "Best@Price3"
+  },
+  {
+    "ma": "DL04",
+    "ten": "Sao Mai Travel",
+    "vai": "Dai ly",
+    "hh": 3472160,
+    "hhHomQua": 3472160,
+    "tyle": 0.045,
+    "mkHash": "bc45706d2415dde6f646656f053af63f6a744edac5553b661b4b6deb4746de2e",
+    "mkHint": true,
+    "mkMau": "SaoMai@4"
+  },
+  {
+    "ma": "DL05",
+    "ten": "Hồng Ngọc Hà Travel",
+    "vai": "Dai ly",
+    "hh": 5071640,
+    "hhHomQua": 4800000,
+    "tyle": 0.055,
+    "mkHash": "3674551a5b6ee86c6f7ba0fce394c4aad6a293af7cdf24b2b13afe8281a916b5",
+    "mkHint": true,
+    "mkMau": "HongNgoc@5"
+  }
+]
