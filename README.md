@@ -1,51 +1,79 @@
-# Demo Vercel — đầy đủ chức năng UI
+# Hệ thống Quản lý Đặt vé Máy bay (BTL OOP — DT04)
 
-## Chức năng
-- Đăng nhập Admin / Đại lý / HK, đăng ký HK (validate CCCD, SĐT, email)
-- Tìm chuyến thẳng, nối chuyến + Đặt cả hành trình
-- Đặt vé: hạng TG/PT/TK, ghế, hành lý, suất ăn, đặt hộ ĐL
-- Vé + check-in, thống kê, so sánh đại lý
-- Admin: thêm sân bay, thêm chuyến, xem ĐL/hoa hồng
+**Airline System Management** · C++17 · Lập trình hướng đối tượng
 
-## Deploy
-Upload folder này lên vercel.com → Deploy → mở link.
+## Giới thiệu
 
-## C++ OOP
-Không chạy trên Vercel. Dùng DT04_DatVe trên máy.
+Đồ án mô phỏng hệ thống đặt vé và điều hành chuyến bay:
 
+- **3 vai trò:** Admin, Đại lý, Hành khách  
+- **Console** đầy đủ menu nghiệp vụ  
+- **Web demo** đồng bộ dữ liệu với console (máy chủ HTTP nhúng trong chương trình)  
+- **34 class** OOP: kế thừa, Factory, Decorator, Builder, State ghế  
+- **Lưu file CSV/TXT** (không dùng database)
 
-## Một link — máy bạn full, máy khác chỉ khách
+## Tính năng chính
 
-Cùng một URL Vercel cho mọi người.
+| Vai trò | Chức năng |
+|--------|-----------|
+| Admin | Quản lý sân bay, máy bay, chuyến bay, thống kê, đại lý, hoa hồng |
+| Đại lý | Đặt vé hộ, hoa hồng theo ngày (thị trường + bán vé) |
+| Hành khách | Đăng ký, tìm/đặt vé, nối chuyến, so sánh đại lý, suất ăn & hành lý |
 
-**Máy của bạn (full Admin + Đại lý):**
-1. Lần đầu: Đăng nhập form bằng **AD01** + mật khẩu Admin (không cần logo).
-2. Trình duyệt máy bạn tự nhớ → **mọi lần sau** chỉ cần mở link là thấy đủ menu Quản trị / Đại lý.
-3. Không cần bật lại, không cần thêm `?host=` trên link gửi đi.
+Web: đăng nhập theo vai trò, đặt vé, sơ đồ ghế, quản trị — cập nhật theo dữ liệu console/`data/`.
 
-**Máy/ĐT người khác (cùng link):**
-- Không có đánh dấu máy chủ → chỉ Đăng nhập / Đăng ký hành khách.
-- Không đăng nhập được tài khoản Đại lý.
-- Không thấy menu Admin / Đại lý.
+## Cấu trúc thư mục
 
-(Tuỳ chọn dự phòng: nhấp logo 5 lần + mã `DT04HOST`.)
+```
+DT04_DatVe/
+├── include/           # AirlineSystem.h + module P1–P5
+├── src/
+│   └── AirlineSystem.cpp   # Cài đặt class + web server + main
+├── data/              # CSV + TXT (sân bay, chuyến, user, vé, thực đơn…)
+├── BTL_OOP.cpp        # Bản gom 1 file (tùy chọn)
+├── Makefile
+├── CHAY.txt
+├── build_va_chay.bat
+├── datve.html         # Trang mở nhanh tới web local
+└── README.md
+```
 
+## Biên dịch & chạy (Windows)
 
+Cần **g++** (MinGW-w64). Trong thư mục `DT04_DatVe`:
 
-## Đồng bộ đa thiết bị (chuyến bay)
+```powershell
+g++ -std=c++17 -O1 -Iinclude src/AirlineSystem.cpp -o datve.exe -lws2_32
+.\datve.exe
+```
 
-Trạng thái chuyến (trễ/hoãn/hủy/sửa/thêm) được đẩy lên `/api/sync` và các máy khác **poll mỗi 5 giây**.
+Hoặc double-click `build_va_chay.bat`.
 
-### Cấu hình trên Vercel (bắt buộc để sync thật giữa 2 máy)
+**Web:** trong menu console chọn mở web đầy đủ → trình duyệt:
 
-1. Vercel Dashboard → Project → **Storage** → tạo **Blob** store → connect vào project.
-2. Env tự có `BLOB_READ_WRITE_TOKEN`.
-3. (Tuỳ chọn) thêm `SYNC_SECRET` — mặc định client dùng `SkyportSync2024` (đổi cả env và trong `js/app.js` nếu cần).
-4. Redeploy.
+- http://localhost:8080  
+- hoặc mở file `datve.html`
 
-**Giới hạn:** độ trễ khoảng vài giây (polling 5s). Không có Blob token thì API vẫn chạy nhưng `configured: false`, mỗi máy chỉ giữ localStorage riêng.
+### Tài khoản mẫu
 
-### Kiểm tra nhanh
+| Vai trò | Mã | Mật khẩu |
+|---------|-----|----------|
+| Admin | AD01 | admin123 |
+| Đại lý | DL01 … DL05 | daily123 |
+| Hành khách | tự đăng ký | |
 
-- Máy A (admin): đổi trạng thái chuyến.
-- Máy B (khách): trong ~5s banner cảnh báo / danh sách cập nhật, có toast thông báo.
+## Công nghệ
+
+- C++17, Winsock2 (HTTP server nhúng)  
+- UTF-8 console/web  
+- Persistence: `data/*.csv`, `data/*.txt`
+
+## Nhóm / Jira
+
+Chia 5 phần: P1 Người dùng · P2 Chuyến bay · P3 Vé-ghế · P4 Decorator-nối chuyến · P5 Menu-File-Web.
+
+Tài liệu UML & chia việc nằm folder **DT04_TaiLieu** (không bắt buộc trong repo code).
+
+## Giấy phép
+
+Đồ án học tập — UTC2 / môn OOP.

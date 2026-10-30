@@ -1,0 +1,48 @@
+=== SKYPORT / DT04 — CHẠY CONSOLE + WEB ===
+
+A. BIÊN DỊCH (Windows PowerShell / CMD, đã cài MinGW g++)
+---------------------------------------------------------
+  cd đường_dẫn\DT04_DatVe
+
+  g++ -std=c++17 -O1 BTL_OOP.cpp -o datve.exe -lws2_32
+
+  (Linux/macOS: g++ -std=c++17 -O1 BTL_OOP.cpp -o datve)
+
+B. CHẠY CONSOLE (menu đầy đủ: Admin / Đại lý / Hành khách)
+---------------------------------------------------------
+  .\datve.exe
+
+  Tài khoản mẫu:
+    Admin   : AD01 / admin123
+    Đại lý  : DL01 / daily123  (DL02..DL05 tương tự)
+    Hành khách: đăng ký mới hoặc HK01/hk123
+
+  Menu console có đủ: tìm chuyến, nối chuyến, đặt vé, quản lý sân bay/chuyến,
+  trạng thái trễ/hoãn/hủy, đại lý, thống kê, v.v.
+
+C. MỞ WEB TỪ CONSOLE (cùng process)
+-----------------------------------
+  Trong menu sau khi đăng nhập, chọn mục «MỞ WEB ĐẦY ĐỦ»
+  (hoặc chạy: .\datve.exe --web)
+
+  Giữ nguyên cửa sổ console — server: http://localhost:8080
+  Mở trình duyệt: http://localhost:8080
+
+D. WEB VERCEL (deploy folder DT04_Vercel_Demo / phần web trong zip tổng)
+-----------------------------------------------------------------------
+  Up folder web lên Vercel — không cần chạy .exe
+  Bản đồ: Esri (đường phố thật), đường bay hiện SAU khi bấm «Tìm chuyến bay»
+
+E. LƯU Ý
+--------
+  - data/*.csv, *.txt: dữ liệu sẵn — không xóa
+  - Console và web dùng chung logic nghiệp vụ (C++ nhúng HTML hoặc bản Vercel JS)
+  - Tắt datve.exe = tắt server localhost:8080
+
+
+# Code C++ đã tách file .h/.cpp theo class (giống Jira):
+#   include/*.h  — từng class
+#   src/*.cpp    — từng class + Helpers.cpp + main.cpp
+# Biên dịch:
+#   g++ -std=c++17 -O1 -Iinclude src/*.cpp -o datve.exe -lws2_32
+#   .\datve.exe

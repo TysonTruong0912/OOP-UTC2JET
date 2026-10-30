@@ -1,0 +1,26 @@
+================================================================================
+  UU DAI THEO HANG VE (DT04)
+  File tham chieu - chuong trinh doc logic tuong ung trong code
+================================================================================
+
+[THUONG GIA]  he so gia x2.5
+  - Phong cho thuong gia / uu tien check-in
+  - Hanh ly mien phi: 40 kg ky gui + 10 kg xach tay
+  - Suat an cao cap di kem
+  - Duoc doi cho / doi ve (check-in)
+  - Uu tien len may bay
+
+[PHO THONG]  he so gia x1.0
+  - Hanh ly mien phi: 20 kg ky gui + 7 kg xach tay
+  - Suat an: dat them (phi rieng)
+  - Duoc doi cho cung hang khi check-in
+  - Tich luy diem co ban
+
+[TIET KIEM]  he so gia x0.8
+  - Hanh ly mien phi: 15 kg ky gui + 7 kg xach tay
+  - Khong duoc doi ve / doi cho (VeTietKiem::choPhepDoiVe = false)
+  - Suat an: dat them (phi rieng)
+  - Gia thap nhat
+
+Phi hanh ly VUOT MUC: 50.000 VND / kg (DON_GIA_HANH_LY trong code)
+================================================================================
