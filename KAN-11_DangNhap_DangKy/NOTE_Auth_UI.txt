@@ -1,0 +1,2 @@
+Web: form đăng nhập/đăng ký full page (js/app.js pHome)
+Lưu TK, quên MK, mắt hiện MK. Đăng ký xong → form đăng nhập.
